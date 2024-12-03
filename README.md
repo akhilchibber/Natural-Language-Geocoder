@@ -1,4 +1,4 @@
-# Natural Language Query based Geocoder
+# Natural Language Query based Geocoder (Under Progress)
 <p align="center">
   <img src="https://github.com/akhilchibber/GenAI-Geocoder/blob/main/groq.png" alt="earthml Logo">
 </p>
