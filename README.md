@@ -16,7 +16,7 @@ To get started with this project:
 2. Ensure you have Jupyter Notebook installed and running.
 3. Install the required dependencies.
 4. Download the "Optical Character Recognition (OCR) Dataset" and place it in the designated directory.
-5. Open and run the Jupyter Notebook "Optical-Character-Recognition.ipynb" to train and evaluate the model.
+5. Open and run the Python Script "groq_integration.py" to run a Natural Language Query based Geocoder using Groq API.
 
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
