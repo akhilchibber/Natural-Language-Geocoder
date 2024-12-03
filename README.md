@@ -1,9 +1,9 @@
-# Natural Language Query based Geocoder (Under Progress)
+# Natural Language Query based Geocoder
 <p align="center">
   <img src="https://github.com/akhilchibber/GenAI-Geocoder/blob/main/groq.png" alt="earthml Logo">
 </p>
 
-## Overview
+## Overview (Under Progress)
 This Github Repository provides an Optical Character Recognition (OCR) solution focused on detecting lowercase English characters from images using deep learning. The input training dataset includes over 200,000 images of alphanumeric characters generated in 3475 font styles. The project includes building and training custom CNN using pre-trained models (EfficientNetB7, MobileNetV2, VGG19, DenseNet121) for character recognition.
 
 ## Dataset
