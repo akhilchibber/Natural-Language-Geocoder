@@ -1,6 +1,6 @@
 # Natural Language Query based Geocoder
 <p align="center">
-  <img src="https://github.com/akhilchibber/Optical-Character-Recognition/blob/main/OCR.png?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/GenAI-Geocoder/blob/main/groq.png" alt="earthml Logo">
 </p>
 
 ## Overview
