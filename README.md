@@ -7,7 +7,7 @@
 This Github Repository provides an Optical Character Recognition (OCR) solution focused on detecting lowercase English characters from images using deep learning. The input training dataset includes over 200,000 images of alphanumeric characters generated in 3475 font styles. The project includes building and training custom CNN using pre-trained models (EfficientNetB7, MobileNetV2, VGG19, DenseNet121) for character recognition.
 
 ## Dataset
-The dataset used in this project can be found on Kaggle: [Optical Character Recognition (OCR) Dataset](https://www.kaggle.com/datasets/harieh/ocr-dataset/). 
+(Under Progress)
 
 ## Getting Started
 To get started with this project:
